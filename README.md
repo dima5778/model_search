@@ -315,3 +315,4 @@ https://cloud.google.com/automl-tables
 Изменение 2 в branch1
 Изменение 3 в branch1
 Новое изменение 1
+Новое изменение 2
