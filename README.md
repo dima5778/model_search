@@ -316,3 +316,4 @@ https://cloud.google.com/automl-tables
 Изменение 3 в branch1
 Новое изменение 1
 Новое изменение 2
+Новое изменение 3
